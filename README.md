@@ -1,7 +1,7 @@
-### Youngbock Park
+### Youngbock Park (call me Hams!)
 Hi, I am Hams. I am a web designer with five years of design experience (web design, interior design, photograph).
 I am good at taking photograph, editing it, and even making video!
-If you have interest in working with me, feel free to contact me.
+If you have interest in working with me, feel free to contact me. 😄
 
 ### Get in touch
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/parkyoungbock)](linkedin.com/in/parkyoungbock)
