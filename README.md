@@ -7,7 +7,7 @@ If you have interest in working with me, feel free to contact me. 😄
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/parkyoungbock)](linkedin.com/in/parkyoungbock)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pyb3088@gmail.com)](mailto:pyb3088@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCtIo99KlKFIOZ3iTfL1k7iw/)](https://www.youtube.com/channel/UCtIo99KlKFIOZ3iTfL1k7iw/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=Instagram&link=https://www.instagram.com/hami_hamsters/)](https://www.instagram.com/hami_hamsters/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-white?style=flat-square&logo=Instagram&link=https://www.instagram.com/hami_hamsters/)](https://www.instagram.com/hami_hamsters/)
 
 <!--
 **yooonjiwon/yooonjiwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
